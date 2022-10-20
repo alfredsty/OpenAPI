@@ -1,0 +1,28 @@
+{
+  "lastBuildDate": "Fri, 07 Oct 2022 17:22:47 +0900",
+  "total": 2,
+  "start": 1,
+  "display": 2,
+  "items": [
+    {
+      "title": "<b>스파이더</b>",
+      "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=28831",
+      "image": "",
+      "subtitle": "Spyder",
+      "pubDate": "1988",
+      "director": "조 마리 에벨라나|",
+      "actor": "블레이크 바너|로널드 윌리엄 로렌스|",
+      "userRating": "10.00"
+    },
+    {
+      "title": "<b>스파이더</b> 리턴즈",
+      "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=73324",
+      "image": "https://ssl.pstatic.net/imgmovie/mdi/mit110/0733/73324_P03_180624.jpg",
+      "subtitle": "The Spider Returns",
+      "pubDate": "1941",
+      "director": "제임스 W. 혼|",
+      "actor": "워렌 헐|",
+      "userRating": "0.00"
+    }
+  ]
+}
